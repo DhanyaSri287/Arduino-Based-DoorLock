@@ -31,7 +31,7 @@ The system allows users to enter a password via keypad. If the password is corre
 ---
 
 ## 🔌 Circuit Connections
-![Circuit Diagram](circuit.png)
+![Circuit Diagram](Circuit.jpeg)
 
 ### LCD (I2C)
 - VCC → 5V  
